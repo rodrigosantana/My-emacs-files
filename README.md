@@ -34,7 +34,7 @@ standard header will be inserted automatically in your work file.
 
 #### Original File URL ####
 
-[WWW - header2]( http://www.emacswiki.org/header2.el)
+`[World Wide Web link for original header2 file]`(http://www.emacswiki.org/header2.el)
 
 Emacs R-autoyas developed by Sven Hartenstein & Matthew Fidler
 --------------------------------------------------------------
@@ -44,7 +44,7 @@ function argument list.
 
 #### Original File URL ####
 
-[GitHub - R-autoyas](https://github.com/mlf176f2/r-autoyas.el)
+`[GitHub link for original R-autoyas file]`(https://github.com/mlf176f2/r-autoyas.el)
 
 Emacs ESS-Font-Lock developed by Richard M. Heiberger
 -----------------------------------------------------
