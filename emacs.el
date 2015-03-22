@@ -209,8 +209,8 @@
 ;; calls ess. See
 ;; http://ess.r-project.org/
 ;; git clone git@github.com:emacs-ess/ESS.git
-;(load "~/.emacs.d/ESS/Lisp/ess-site")
-;(require 'ess-site)
+(load "~/.emacs.d/ESS/lisp/ess-site")
+(require 'ess-site)
 (setq-default ess-dialect "R")
 
 ;; show function arguments in ESS buffers
